@@ -6,7 +6,7 @@ This repository contains implementations of various **pathfinding algorithms**, 
 
 
 ## 📌 Algorithms Implemented  
-- 🔹 **A* (A-Star) Algorithm**  
+- 🔹 **A\* (A-Star) Algorithm**  
 - 🔹 **Breadth-First Search (BFS)**  
 - 🔹 **Depth-First Search (DFS)**  
 - 🔹 **Greedy Best-First Search**  
